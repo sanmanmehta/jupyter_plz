@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/11509740/210084133-61f2cb2d-9968-4b01-
 
 ## Installation
 
-You can install `plz` in your Python virtual environment by running the following command in your terminal:
+You can install `jupyter-plz` in your Python virtual environment by running the following command in your terminal:
 
 ```bash
 pip install jupyter-plz
